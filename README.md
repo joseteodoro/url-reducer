@@ -1,3 +1,3 @@
-# url-reducer by hand
+# url-Shortener by hand
 
-simple url enshorter to use locally using nodejs.
+simple url Shortener to use locally using nodejs.
